@@ -16,6 +16,6 @@
     "googleapis": "45.0.0",
     "http-range-parse": "^1.0.0",
     "node-telegram-bot-api": "^0.40.0",
-    "tar": "^5.0.5"
+    "tar": "^5.0.7"
   }
 }
